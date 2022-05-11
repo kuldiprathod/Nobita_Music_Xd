@@ -25,12 +25,12 @@
     "SUPPORT": {
       "description": "Username of the chat where users will go and disturb you.(without @)",
       "required": true,
-      "value": "Agora_Robots"
+      "value": "Nobita_xd"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID",
       "required": true,
-      "value": "5272015055"
+      "value": "5275980328"
     }
   }
 }
