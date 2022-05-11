@@ -41,7 +41,7 @@ SUPPORT = os.environ["SUPPORT"]
 LIVE_CHATS = []
 
 START_TEXT = """━━━━━━━━━━━━━━━━━━━━━━
-[🖤](https://te.legra.ph/file/743570cee67092f5d03b7.jpg) ʜᴇʏ, <b>{}</b> 
+[🖤](https://te.legra.ph/file/088e7be378ea5a5fc2854.jpg) ʜᴇʏ, <b>{}</b> 
 
 ᴀ ғᴀsᴛ & sᴍᴏᴏᴛʜ ᴠᴄ ᴩʟᴀ
 ᴀ ғᴀsᴛ & sᴍᴏᴏᴛʜ ᴠᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩsʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩs.
@@ -62,7 +62,7 @@ START_BUTTONS = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("🧐 ʜᴇʟᴩ 🧐", callback_data="help_cb"),
-            InlineKeyboardButton("💔 sᴜᴩᴩᴏʀᴛ​ 💔", url=f"https://t.me/{SUPPORT}")
+            InlineKeyboardButton("💔 sᴜᴩᴩᴏʀᴛ​ 💔", url=f"https://t.me/AAPLI_YAARI")
         ],
         [
             InlineKeyboardButton("🙄 sᴏᴜʀᴄᴇ 🙄", url="https://t.me/AAPLI_YAARI")
