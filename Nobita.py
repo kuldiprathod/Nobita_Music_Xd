@@ -47,7 +47,7 @@ START_TEXT = """━━━━━━━━━━━━━━━━━━━━━�
 ᴀ ғᴀsᴛ & sᴍᴏᴏᴛʜ ᴠᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩsʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩs.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴍᴀᴅᴇ ʙʏ​ :[𝙽𝙾𝙱𝙸𝚃𝙰_𝚇𝙳♛︎](https://t.me/Nobi_xxd)
+┣★ ᴍᴀᴅᴇ ʙʏ​ :[ 𝙽𝙾𝙱𝙸𝚃𝙰_𝚇𝙳 ♛︎](https://t.me/Nobi_xxd)
 ┗━━━━━━━━━━━━━━━━━┛
 
 ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴀʟʟ ᴏғ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.
@@ -65,7 +65,7 @@ START_BUTTONS = InlineKeyboardMarkup(
             InlineKeyboardButton("💔 sᴜᴩᴩᴏʀᴛ​ 💔", url=f"https://t.me/AAPLI_YAARI")
         ],
         [
-            InlineKeyboardButton("🙄 sᴏᴜʀᴄᴇ 🙄", url="https://t.me/AAPLI_YAARI")
+            InlineKeyboardButton("🙄 sᴏᴜʀᴄᴇ 🙄", url="https://t.me/Nobi_xxd")
         ]
     ]
 )
